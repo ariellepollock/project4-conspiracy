@@ -18,7 +18,7 @@ As a user, I want the ability to...
   - delete a completed story
 
 ## ERD
-<img width="982" alt="Screen Shot 2024-02-08 at 3 11 11 PM" src="https://github.com/ariellepollock/project4-conspiracy/assets/149843908/34827865-fef4-444a-bb36-72596b048aad">
+<img width="864" alt="Screen Shot 2024-02-08 at 3 23 13 PM" src="https://github.com/ariellepollock/project4-conspiracy/assets/149843908/8f2c2582-f13c-4870-a051-b1c024bb30e8">
 
 ## Wireframes
 <img width="1017" alt="Screen Shot 2024-02-08 at 12 36 50 PM" src="https://github.com/ariellepollock/project4-conspiracy/assets/149843908/38e885ba-039f-4eed-af43-9f165d277804">
