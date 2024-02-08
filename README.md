@@ -30,3 +30,6 @@ As a user, I want the ability to...
 - CSS3
 
 ## Ice Box
+- Add more stores
+- Add categories so user can search by category
+- Add ability to favorite user stories
