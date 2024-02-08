@@ -20,7 +20,7 @@ As a user, I want the ability to...
 <img width="959" alt="Screen Shot 2024-02-08 at 10 46 40 AM" src="https://github.com/ariellepollock/project4-conspiracy/assets/149843908/50c2c7f4-11e6-43a3-9f27-2d1e6219ea47">
 
 ## Wireframes
-<img width="676" alt="Screen Shot 2024-02-08 at 11 06 08 AM" src="https://github.com/ariellepollock/project4-conspiracy/assets/149843908/d201eb27-0510-426a-957e-31fa3cfb7074">
+<img width="1017" alt="Screen Shot 2024-02-08 at 12 36 50 PM" src="https://github.com/ariellepollock/project4-conspiracy/assets/149843908/38e885ba-039f-4eed-af43-9f165d277804">
 
 ## Technologies Used
 - MongoDb/Mongoose
