@@ -1,5 +1,5 @@
 # Conspiracy Corner
-#### a word game app inspired by Mad Libs
+A word game app inspired by Mad Libs®
 
 ## Overview
 Step into Conspiracy Corner, the ultimate destination for those who dare to question the narrative and uncover the secrets lurking just out of sight. Craft and share your own conspiracy theories, and peel back the layers of reality one story at a time. Conspiracy Corner: where every shadow holds a story and no truth is too outlandish to consider.
