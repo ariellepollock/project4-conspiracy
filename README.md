@@ -8,9 +8,16 @@ As a user, I want the ability to...
   - sign up
   - sign in
   - sign out
-  - 
+  - view list of stories
+  - choose a story
+  - input text for each element
+  - read completed story
+  - edit completed story
+  - save completed story
+  - delete a completed story
 
 ## ERD
+<img width="959" alt="Screen Shot 2024-02-08 at 10 46 40 AM" src="https://github.com/ariellepollock/project4-conspiracy/assets/149843908/50c2c7f4-11e6-43a3-9f27-2d1e6219ea47">
 
 ## Wireframes
 
